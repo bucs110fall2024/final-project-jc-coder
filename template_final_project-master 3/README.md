@@ -13,7 +13,7 @@ Jacob Chow
 ## Project Description
 
 << Give an overview of your project >>
-
+Tamagotchi style game. Selection of different characters, i'm thinking pokemon. You can train, feed, play etc with characters. Each action has different animations and characters level up. Evolve after enough actions/care by player. 
 ***    
 
 ## GUI Design
@@ -30,11 +30,12 @@ Jacob Chow
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. << Start menu >>
+2. << Character selection >>
+3. << Action selection (feed, play, train) >>
+4. << Character reactions to player actions >>
+5. << Personalization features (naming, background) >>
+6. << Evolution, character evolves after certain amount of player input/care >>
 
 ### Classes
 
