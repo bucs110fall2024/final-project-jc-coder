@@ -39,7 +39,9 @@ Tamagotchi style game. Selection of different characters, i'm thinking pokemon. 
 
 ### Classes
 
-- << You should have a list of each of your classes with a description >>
+- << Pokemon class - performs actions of pokemon, level ups, and evolutions >>
+<< Player class - includes player commands such as choosing pokemon and performing actions on pokemon >>
+<< >>
 
 ## ATP
 

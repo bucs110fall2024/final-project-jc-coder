@@ -1,1 +1,4 @@
 All of your python files go in this folder
+pokemon.py
+player.py
+controller.py
