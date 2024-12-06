@@ -1,1 +1,15 @@
 all of your media (images/music/video) go in this folder
+background_music.mp3
+background.png
+berry.png
+blastoise.png
+bulbasaur.png
+charizard.png
+charmander.png
+charmeleon.png
+ivysaur.png
+play.png
+squirtle.png
+training.png
+venusaur.png
+wartortle.png

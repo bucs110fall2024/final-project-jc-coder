@@ -1,4 +1,5 @@
 All of your python files go in this folder
 pokemon.py
-player.py
+stats.py
 controller.py
+__init__.py
